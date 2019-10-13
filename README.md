@@ -34,7 +34,7 @@ Document Format -
 You can also send your own customized fancy wishes in HTML too. 
 
 ## Usage 
-Make a cron job to check and send greetings once a day using a cron job.   
+Make a cron job to check and send greetings once a day.    
 Add this line in the crontab   
 `* 10 * * * python main.py > output.txt`
 
