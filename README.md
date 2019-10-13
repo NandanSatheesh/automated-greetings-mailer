@@ -1,0 +1,1 @@
+# automated-greetings-mailer
